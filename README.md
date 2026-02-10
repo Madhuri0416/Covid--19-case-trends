@@ -27,8 +27,12 @@ The analysis focuses on:
 
 
 Key Research Questions & Findings:
+
+
 1.How did COVID-19 cases change month by month across the US?
+
 Finding: Cases decreased as the months progressed.
+
 January had the highest cases, and by March, the case numbers were significantly lower.
 <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/7e081f81-a412-4c04-ad40-98d6cbd1ff27" />
 
@@ -36,40 +40,57 @@ January had the highest cases, and by March, the case numbers were significantly
 Insight: The downward trend suggests a reduction in transmission during early 2023.
 
 2.Which states had the highest number of cases?
+
 Finding: California, Texas, Florida, and New York had the highest total cases.
-![image.png](attachment:a746390d-29d9-415c-b832-f44b6d25375a:image.png)
+
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/acc35674-c859-4f9b-87ed-dcc626b59943" />
+
 
 Relationship between total cases and deaths by state
+
 Finding: There is a strong positive correlation (0.975) between total cases and total deaths.
-![image.png](attachment:5bd0a22b-055e-4e27-a427-5af684d84308:image.png)
+<img width="581" height="455" alt="image" src="https://github.com/user-attachments/assets/be1e66c4-9bef-44a5-9de6-d536f34f3907" />
+
 
 Insight: States with more cases also experienced more deaths, indicating the expected proportional impact of COVID-19 spread.
 
 3.How do new daily cases compare to cumulative totals over time?
+
 Finding: The cumulative cases increased steadily, while daily new cases remained relatively constant without major spikes.
-![image.png](attachment:389b32cb-165a-40cc-9ad9-46c4672b0c7e:image.png)
+
+<img width="554" height="521" alt="image" src="https://github.com/user-attachments/assets/c91871b2-332a-47f9-babd-acbafa67c2ce" />
+
 
 4.Which counties had the most cases?
+
 Finding: Los Angeles County reported the highest number of cases among all US counties.
-![image.png](attachment:efe431c2-e0e0-41a3-bb34-8c97f1571620:image.png)
+<img width="567" height="536" alt="image" src="https://github.com/user-attachments/assets/45e9a9df-8e13-4e8c-a9b2-16094bba81af" />
+
+
 
 5.Monthly trends of cases per county
-Finding: Heatmaps show that some counties consistently had higher cases, while others reported lower numbers.
 
-![image.png](attachment:516fd605-5af7-4d23-bf2d-85e6e8ec16aa:image.png)
+Finding: Heatmaps show that some counties consistently had higher cases, while others reported lower numbers.
+<img width="650" height="448" alt="image" src="https://github.com/user-attachments/assets/62216423-9a1a-48bb-9560-a98d6aa9f33c" />
+
 
 6.Average mortality rate by state
+
 Finding: Pennsylvania had the highest mortality rate, while Northern Mariana Islands had the lowest.
-![image.png](attachment:dd2d4a64-7518-4191-9809-76b99afff460:image.png)
+<img width="863" height="631" alt="image" src="https://github.com/user-attachments/assets/4770dc83-988a-4bf3-a80a-3f264affee02" />
+
 
 7.How did the number of cases evolve month by month in each state?
-Finding: States like California, Texas, and Florida showed the highest growth from January to March 2023.
 
-![image.png](attachment:931bbd45-9897-497f-90af-3ee7adb4113c:image.png)
+Finding: States like California, Texas, and Florida showed the highest growth from January to March 2023.
+<img width="1279" height="1247" alt="image" src="https://github.com/user-attachments/assets/dd00b432-527c-422d-b856-035e0c40838d" />
+
 
 8.When did the highest daily or monthly spikes occur?
+
 Finding: Peak daily cases were clearly identifiable and highlighted using scatter plots, showing specific dates of maximum reported cases.
-![image.png](attachment:21db2891-6152-4bcd-a0ed-d501310601e0:image.png)
+<img width="1014" height="563" alt="image" src="https://github.com/user-attachments/assets/e70c97ce-9a62-426c-9aa6-75efcd69d634" />
+
 
 Conclusion:
 This analysis demonstrates that:
