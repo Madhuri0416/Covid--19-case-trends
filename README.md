@@ -8,12 +8,12 @@ I performed exploratory data analysis (EDA) to answer several research questions
 evolution of cases, deaths, and mortality rates across states and counties.
 
 The analysis focuses on:
-Monthly trends in COVID-19 cases
-States and counties most affected
-Correlation between cases and deaths
-Daily vs cumulative cases
-Mortality rates by state
-Peak case days and spikes
+1.Monthly trends in COVID-19 cases
+2.States and counties most affected
+3.Correlation between cases and deaths
+4.Daily vs cumulative cases
+5.Mortality rates by state
+6.Peak case days and spikes
 
 Key Research Questions & Findings:
 1.How did COVID-19 cases change month by month across the US?
