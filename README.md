@@ -9,10 +9,15 @@ evolution of cases, deaths, and mortality rates across states and counties.
 
 The analysis focuses on:
 1.Monthly trends in COVID-19 cases
+
 2.States and counties most affected
+
 3.Correlation between cases and deaths
+
 4.Daily vs cumulative cases
+
 5.Mortality rates by state
+
 6.Peak case days and spikes
 
 Key Research Questions & Findings:
