@@ -8,6 +8,7 @@ I performed exploratory data analysis (EDA) to answer several research questions
 evolution of cases, deaths, and mortality rates across states and counties.
 
 The analysis focuses on:
+
 1.Monthly trends in COVID-19 cases
 
 
