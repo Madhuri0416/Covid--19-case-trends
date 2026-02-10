@@ -30,7 +30,8 @@ Key Research Questions & Findings:
 1.How did COVID-19 cases change month by month across the US?
 Finding: Cases decreased as the months progressed.
 January had the highest cases, and by March, the case numbers were significantly lower.
-![image.png](attachment:14ecae11-eca3-48d9-881e-e061f2fceb3f:image.png)
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/7e081f81-a412-4c04-ad40-98d6cbd1ff27" />
+
 
 Insight: The downward trend suggests a reduction in transmission during early 2023.
 
